@@ -1,3 +1,5 @@
+> Archived. Part of the XeWe LED family; see https://github.com/xewe-labs/xewe-led-os.
+
 # sUv Bot — solar-charged cocktail stand with glass-triggered LED animations
 
 Personal project (built for a bar) · 2022 (uploaded to GitHub 2023-11-18) · Solo: Max Dokukin · Status: Completed
